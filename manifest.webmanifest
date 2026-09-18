@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Sanika Linge \u2014 Portfolio",
+  "name": "Sanika Linge — Portfolio",
   "short_name": "Sanika",
-  "description": "Sanika Linge \u2014 Computer Engineer in Progress",
+  "description": "Sanika Linge — Computer Engineer in Progress",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -10,13 +10,13 @@
   "theme_color": "#D98E12",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
